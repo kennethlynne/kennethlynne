@@ -8,3 +8,8 @@ I have extensive experience building products for all platforms from both startu
 Feel free to ask me about tech, architecture and product management.
 
 I prefer technologies such as React & React-Native, J̶a̶v̶a̶s̶c̶r̶i̶p̶t̶Typescript and NodeJS. I have several years of experience with technologies such as GraphQL, Kubernetes, MongoDB, RabbitMQ, Redis and Docker.
+
+- [kenneth.ly/nne](https://kenneth.ly/nne)
+- [Instagram](https://www.instagram.com/kenneth.js)
+- [LinkedIn](https://www.linkedin.com/in/kennethlynne/)
+- [SoundCloud](https://soundcloud.com/nordlysmusic)
