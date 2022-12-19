@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-I'm the founder and sole developer in Kenneth Lynne AS, a Oslo based tech consultancy specialising in full-stack large scale typescript projects using NodeJS, React, React-Native and more. 
+Full-Stack developer & solution architect specializing in UX, tech & business. Proven track record in software development with millions in venture capital raised. Expert in React & React-Native, NodeJS, and more.
 
 I thrive in the intersection between UX, tech and business when finding and solving problems that matter.
 I have extensive experience building products for all platforms from both startups and consulting. 
